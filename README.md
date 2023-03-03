@@ -1,4 +1,4 @@
-### Hi I'm Bunyamin and a Computer Engineering Student 👨‍🎓 <img align="right" alt="GIF" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif?raw=true" width="150" height="100" />
+### Hi I'm Bunyamin and a Computer Engineering Student 👨‍🎓 <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width="300" height="200" />
 
 
 
