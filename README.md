@@ -1,4 +1,4 @@
-### Hi I'm Bunyamin and a Computer Engineering Student 👨‍🎓 <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width="300" height="200" />
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/91992194/229088699-e1a47a36-bafd-4aa2-a124-298b2ec7908d.gif"> <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width="300" height="200" />
 
 
 
@@ -55,3 +55,5 @@ Here are some ideas to get you started:
 
 
 </p>
+
+
