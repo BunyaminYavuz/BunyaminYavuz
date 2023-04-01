@@ -1,4 +1,6 @@
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/91992194/229088699-e1a47a36-bafd-4aa2-a124-298b2ec7908d.gif"> <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width="300" height="200" />
+![gitTitleGif](https://user-images.githubusercontent.com/91992194/229309589-e412ab08-6d1b-47a3-95a3-7c9483723c6f.gif)
+
+<!--<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/91992194/229088699-e1a47a36-bafd-4aa2-a124-298b2ec7908d.gif">--> <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width="300" height="200" />
 
 
 
