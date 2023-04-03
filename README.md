@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -  🥅 2023 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 <br>
 <hr>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BunyaminYavuz&">
+
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=BunyaminYavuz&show_icons=true&theme=light) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
@@ -72,3 +72,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BunyaminYavuz)](https://github.com/BunyaminYavuz/github-profile-trophy)
 <hr>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BunyaminYavuz&">
