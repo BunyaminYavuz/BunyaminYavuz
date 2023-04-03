@@ -1,13 +1,13 @@
 ![gitTitleGif](https://user-images.githubusercontent.com/91992194/229309589-e412ab08-6d1b-47a3-95a3-7c9483723c6f.gif)
-
+<h4>I achieve excellence by reflecting my high software and hardware technology skills that I have gained throughout my education life into my practical life.</h4>
+<br>
 <!--<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/91992194/229088699-e1a47a36-bafd-4aa2-a124-298b2ec7908d.gif">--> <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width="300" height="200" />
 
 
 
 
-
 <!--
-**Byavuz07/Byavuz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BuyaninYavuz/BuyaninYavuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,10 +23,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Check out the "Find me on" blog
 - ⚡ Fun fact: Coding is awsome
 -  🥅 2023 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
+<br>
+<hr>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BunyaminYavuz&">
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=BunyaminYavuz&show_icons=true&theme=dark) 
-![](https://visitor-badge.laobi.icu/badge?page_id=BunyaminYavuz.BunyaminYavuz)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BunyaminYavuz&theme=dark)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=BunyaminYavuz&show_icons=true&theme=light) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=BunyaminYavuz.BunyaminYavuz" width="135">
+<hr>
+<br>
+<br>
+
 ## ✉️ Find me on:
 
 
@@ -37,7 +44,9 @@ Here are some ideas to get you started:
  <a href="https://www.instagram.com/bnymn_yvz07" target="_blank" rel="noopener noreferrer"> <img src="https://icons.veryicon.com/png/o/application/fill-2/instagram-61.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
 
-<br />
+<hr>
+<br>
+<br>
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -55,7 +64,11 @@ Here are some ideas to get you started:
 <img src="https://www.pngitem.com/pimgs/m/191-1918829_icon-android-studio-logo-hd-png-download.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
 <img src="https://friconix.com/png/fi-stluxx-jupyter-notebook.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
 
-
+<hr>
+<br>
+<br>
+<h2>🏆 My Trophies</h2>
 </p>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=BunyaminYavuz)](https://github.com/BunyaminYavuz/github-profile-trophy)
+<hr>
