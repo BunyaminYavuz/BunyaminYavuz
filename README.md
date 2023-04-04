@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=BunyaminYavuz&show_icons=true&theme=light) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BunyaminYavuz&layout=compact)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=BunyaminYavuz.BunyaminYavuz" width="135">
 <hr>
 <br>
