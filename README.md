@@ -27,12 +27,10 @@ Here are some ideas to get you started:
 <hr>
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=BunyaminYavuz&show_icons=true&theme=light) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BunyaminYavuz&layout=compact)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=BunyaminYavuz&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BunyaminYavuz&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=BunyaminYavuz.BunyaminYavuz" width="135">
-<hr>
-<br>
-<br>
+
 
 ## ✉️ Find me on:
 
