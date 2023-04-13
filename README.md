@@ -48,19 +48,19 @@ Here are some ideas to get you started:
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Css" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Android" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="Pycharm" height="40" style="vertical-align:top; margin:4px">
-<img src="https://e7.pngegg.com/pngimages/741/983/png-clipart-code-blocks-c-computer-programming-computer-icons-others-miscellaneous-angle-thumbnail.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.pngitem.com/pimgs/m/191-1918829_icon-android-studio-logo-hd-png-download.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://friconix.com/png/fi-stluxx-jupyter-notebook.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="64" width="64" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" height="64" width="64" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="64" width="64" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="64" width="64" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Css" height="64" width="64" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html" height="64" width="64" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="64" width="64" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://www.pngplay.com/wp-content/uploads/12/GitHub-Clip-Art-Transparent-PNG.png" alt="Github" height="40" width="64" style="vertical-align:top; margin:4px" >&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Android" height="64" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="Pycharm" height="64" width="64" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://e7.pngegg.com/pngimages/741/983/png-clipart-code-blocks-c-computer-programming-computer-icons-others-miscellaneous-angle-thumbnail.png" alt="Github" height="64" width="64" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://www.pngitem.com/pimgs/m/191-1918829_icon-android-studio-logo-hd-png-download.png" alt="Github" height="64" width="64" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://friconix.com/png/fi-stluxx-jupyter-notebook.png" alt="Github" height="64" width="64" style="vertical-align:top; margin:4px">&nbsp&nbsp&nbsp&nbsp&nbsp
 
 <hr>
 <br>
