@@ -66,11 +66,17 @@ Here are some ideas to get you started:
 <br>
 <br>
 <h2>🏆 My Trophies</h2>
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=BunyaminYavuz">
+</div>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BunyaminYavuz)](https://github.com/BunyaminYavuz/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=BunyaminYavuz)](https://github.com/BunyaminYavuz/github-profile-trophy)-->
 <hr>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BunyaminYavuz&">
+
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=BunyaminYavuz&">
+</div>
 
 
 
