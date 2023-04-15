@@ -1,7 +1,7 @@
 ![gitTitle](https://user-images.githubusercontent.com/91992194/230920280-df678ad6-4f06-4bd1-bd18-5d8c79ff2d3c.gif)
 <h3>I achieve excellence by reflecting my high software and hardware technology skills that I gained throughout my university education life to my practice life. As a software developer, I try to do my best for the future of software.</h4>
 <br>
-<!--<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/91992194/229088699-e1a47a36-bafd-4aa2-a124-298b2ec7908d.gif">--> <img align="right" alt="GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" width="300" height="200" />
+<!--<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/91992194/229088699-e1a47a36-bafd-4aa2-a124-298b2ec7908d.gif">--> <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/91992194/232203353-4fbd92f4-1298-4c48-9ef9-cb53b4e7af08.gif?raw=true" width="500" height="300" />
 
 
 
@@ -78,6 +78,7 @@ Here are some ideas to get you started:
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BunyaminYavuz&">
 </div>
 
+![hacker]()
 
 
 
