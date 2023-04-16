@@ -77,8 +77,3 @@ Here are some ideas to get you started:
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BunyaminYavuz&">
 </div>
-
-![hacker]()
-
-
-
