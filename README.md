@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## ✉️ Contact me:
 <p align="center">
 <!--  <a href="https://twitter.com/bnymnYvz07" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/733/733635.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px"> </a> -->
- <a href="https://www.linkedin.com/in/bunyamin-yavuz-079616232/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/bunyaminyavuz/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:yavuzzbunyamin@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
