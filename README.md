@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 🤪 Fun fact: Coding is awesome!!! 🌟
 
-### 🌟 In 2024, I'm excited to delve into machine learning and backend development. My goal is to learn and grow in these areas, applying my skills to real-world projects and making meaningful contributions to the field... 🤖🌟
+### 🌟 In 2025, I'm excited to delve into machine learning and backend development. My goal is to learn and grow in these areas, applying my skills to real-world projects and making meaningful contributions to the field... 🤖🌟
 
 
 <br>
